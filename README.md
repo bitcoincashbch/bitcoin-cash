@@ -34,8 +34,6 @@ BCH doesn't have an official Github repository. Due to it's decentralized blockc
 * [Website](https://www.bitprim.org/)
 * [Project Repository](https://github.com/bitprim)
 
-*** 
-
 # Bitcoin Cash projects 
 
 For an even fuller list of BCH projects that use Bitcoin Cash, visit this [Bitcoin Cash Projects list](https://www.bitcoin.com/bitcoin-cash-projects/) on Bitcoin.com to see what kind of applications and tools are being built.
