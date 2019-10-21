@@ -1,3 +1,5 @@
+![Bitcoin Cash BCH](bitcoin-cash-bch-logo-hero.png "Bitcoin Cash BCH logo")
+
 # Bitcoin Cash (BCH)
 
 Bitcoin Cash (ticker symbol: BCH) is peer-to-peer electronic cash as outlined in the [Bitcoin whitepaper](http://bitcoin.com/bitcoin.pdf) which enables new economies with low fee micro-transactions, large business transactions, and permissionless spending. Bitcoin Cash is a fork of Bitcoin carries the same genesis block that was started with Bitcoin in January 2009. Bitcoin Cash is the upgraded version of Bitcoin. You can learn more by reading *[What is Bitcoin Cash](https://www.bitcoin.com/get-started/what-is-bitcoin-cash)*.
