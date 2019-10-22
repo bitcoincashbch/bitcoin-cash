@@ -2,11 +2,11 @@
 
 # Bitcoin Cash (BCH)
 
-Bitcoin Cash (ticker symbol: BCH) is peer-to-peer electronic cash as outlined in the [Bitcoin whitepaper](http://bitcoin.com/bitcoin.pdf) which enables new economies with low fee micro-transactions, large business transactions, and permissionless spending. Bitcoin Cash is the upgraded version of Bitcoin which carries the same genesis block that was started with Bitcoin in January 2009. You can learn more by reading *[What is Bitcoin Cash](https://www.bitcoin.com/get-started/what-is-bitcoin-cash)*.
+Bitcoin Cash (ticker symbol: BCH) is a peer-to-peer electronic cash system as outlined in the [Bitcoin whitepaper](http://bitcoin.com/bitcoin.pdf) by Satoshi Nakamoto that has fast, secure, reliable, and low fee transactions and a permissionless blockchain network. Bitcoin Cash is the upgraded version of Bitcoin which carries the same genesis block that was started with Bitcoin in January 2009. You can learn more about it by reading *[What is Bitcoin Cash](https://www.bitcoin.com/get-started/what-is-bitcoin-cash)*.
 
 # Bitcoin Cash (BCH) is decentralized
 
-BCH doesn't have an official Github repository. Due to it's decentralized blockchain and p2p network, there are several Bitcoin Cash software client implementations, listed below in no specific order. 
+BCH doesn't have a single official Github repository. Due to it's decentralized blockchain and p2p network, there are several Bitcoin Cash software client implementations, listed below in no specific order. 
 
 ## Bitcoin Unlimited 
 * [Website](https://www.bitcoinunlimited.info/)
