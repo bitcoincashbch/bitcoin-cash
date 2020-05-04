@@ -32,6 +32,9 @@ BCH doesn't have a single official Github repository. Due to it's decentralized 
 * [Website](http://kth.cash/)
 * [Project Repository](https://github.com/k-nuth/kth)
 
+## Bitcoin Cash Node
+* [Website](https://bitcoincashnode.org/)
+* [Project Repository](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node)
 
 # Bitcoin Cash projects 
 
