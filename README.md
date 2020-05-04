@@ -28,13 +28,10 @@ BCH doesn't have a single official Github repository. Due to it's decentralized 
 * [Website](https://flowee.org/)
 * [Project Repository](https://gitlab.com/FloweeTheHub)
 
-## Bcash
-* [Website](https://bcoin.io/)
-* [Project Repository](https://github.com/bcoin-org/bcash)
+## Knuth
+* [Website](http://kth.cash/)
+* [Project Repository](https://github.com/k-nuth/kth)
 
-## Bitprim 
-* [Website](https://www.bitprim.org/)
-* [Project Repository](https://github.com/bitprim)
 
 # Bitcoin Cash projects 
 
