@@ -8,13 +8,13 @@ Bitcoin Cash (ticker symbol: BCH) is a decentralized uncensorable peer-to-peer e
 
 BCH doesn't have a single official Github repository. Due to it's decentralized blockchain and p2p network, there are several Bitcoin Cash software client implementations, listed below in no specific order. 
 
+## Bitcoin Cash Node
+* [Website](https://bitcoincashnode.org/)
+* [Project Repository](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node)
+
 ## Bitcoin Unlimited 
 * [Website](https://www.bitcoinunlimited.info/)
 * [Project Repository](https://github.com/BitcoinUnlimited/BitcoinUnlimited)
-
-## Bitcoin ABC 
-* [Website](https://www.bitcoinabc.org/)
-* [Project Repository](https://github.com/Bitcoin-ABC/bitcoin-abc)
 
 ## BCHD
 * [Website](https://bchd.cash/)
@@ -31,10 +31,6 @@ BCH doesn't have a single official Github repository. Due to it's decentralized 
 ## Knuth
 * [Website](http://kth.cash/)
 * [Project Repository](https://github.com/k-nuth/kth)
-
-## Bitcoin Cash Node
-* [Website](https://bitcoincashnode.org/)
-* [Project Repository](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node)
 
 # Bitcoin Cash projects 
 
