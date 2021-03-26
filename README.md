@@ -2,7 +2,7 @@
 
 # Bitcoin Cash (BCH)
 
-Bitcoin Cash (ticker symbol: BCH) is a decentralized uncensorable peer-to-peer electronic cash system as outlined in the [Bitcoin whitepaper](http://bitcoin.com/bitcoin.pdf) by Satoshi Nakamoto that has fast, secure, reliable, and low fee transactions running on a permissionless blockchain network. Bitcoin Cash is the upgraded version of Bitcoin which carries the same genesis block that was started with Bitcoin in January 2009. You can learn more about it by reading *[What is Bitcoin Cash](https://www.bitcoin.com/get-started/what-is-bitcoin-cash)*.
+Bitcoin Cash (ticker symbol: BCH) is a decentralized uncensorable peer-to-peer electronic cash system as outlined in the [Bitcoin whitepaper](http://bitcoin.com/bitcoin.pdf) by Satoshi Nakamoto that has fast, secure, reliable, and low fee transactions running on a permissionless blockchain network. Bitcoin Cash is the upgraded version of Bitcoin which carries the same genesis block that was started with Bitcoin in January 2009. You can learn more about it by reading *[What is Bitcoin Cash](https://bitcoincash.substack.com/p/what-is-bitcoin-cash-bch)*.
 
 # Bitcoin Cash (BCH) is decentralized
 
