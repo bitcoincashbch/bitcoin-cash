@@ -34,7 +34,7 @@ BCH doesn't have a single official Github repository. Due to it's decentralized 
 
 # Bitcoin Cash Protocol Development
 
-Below is a highlighted list of protocol development projects completed on the Bitcoin Cash blockchain. This is not an all-inclusive list. You can see a full list of [BCH developments here](https://cash.coin.dance/development). 
+Below is a highlighted list of protocol developments completed on the Bitcoin Cash blockchain. This is not an all-inclusive list. You can see a full list of [BCH developments here](https://cash.coin.dance/development) which includes not yet completed proposals and projects.
 
 * [ASERT Difficulty Adjustment Algorithm](https://upgradespecs.bitcoincashnode.org/2020-11-15-asert/)
 * [Default to 32MB blocks](https://github.com/Bitcoin-ABC/bitcoin-abc/commit/699f4b867318486b915bd2d3b2102fb49ec652f1#diff-cbe22f30d7e480617350ef6ceca97d0c)
