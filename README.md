@@ -50,6 +50,12 @@ Below is a highlighted list of completed protocol developments on the Bitcoin Ca
 * [Fast Sync via IPFS](https://medium.com/@bchd.cash/announcing-bchd-0-13-0-beta2-with-fast-sync-mode-4d4b741d27c5)
 * [Graphene v1](https://github.com/BitcoinUnlimited/BitcoinUnlimited/pull/973)
 
+# Bitcoin Cash Mining
+
+Bitcoin Cash (BCH) uses the SHA-256 hashing algorithm, which is the same mining algorithm used by Bitcoin (BTC), as both coins share the same blockchain genesis. Miners can easily switch between the two coins, and miners are distributed all over the world. Miners can leave and rejoin the network at will. Below is a [snapshot](https://cash.coin.dance/blocks/thisweek) of the last 7 days of mining BCH blocks as provided by Coin.Dance.
+
+![Bitcoin Cash Decentralized Mining](https://cash.coin.dance/blocks/image/thisweek.png "Bitcoin Cash Decentralized Mining")
+
 # Bitcoin Cash Ecosystem 
 
 For a more comprehensive list of other BCH ecosystem projects that use Bitcoin Cash, visit the [Bitcoin Cash Projects list](https://www.bitcoin.com/bitcoin-cash-projects/) to see what kind of applications and tools are being built.
