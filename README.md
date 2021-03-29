@@ -54,7 +54,7 @@ Below is a highlighted list of completed protocol developments on the Bitcoin Ca
 
 Bitcoin Cash (BCH) uses the SHA-256 hashing algorithm, which is the same mining algorithm used by Bitcoin (BTC), as both coins share the same blockchain genesis. Miners can easily switch between the two coins, and miners are distributed all over the world. Miners can leave and rejoin the network at will. Below is a [snapshot](https://cash.coin.dance/blocks/thisweek) of the last 7 days of mining BCH blocks as provided by Coin.Dance.
 
-![Bitcoin Cash Decentralized Mining](https://cash.coin.dance/blocks/image/thisweek.png "Bitcoin Cash Decentralized Mining")
+<img src="https://cash.coin.dance/blocks/image/thisweek.png"/>
 
 # Bitcoin Cash Ecosystem 
 
