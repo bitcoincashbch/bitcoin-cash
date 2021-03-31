@@ -59,3 +59,7 @@ Bitcoin Cash (BCH) uses the SHA-256 hashing algorithm, which is the same mining 
 # Bitcoin Cash Ecosystem 
 
 For a more comprehensive list of other BCH ecosystem projects that use Bitcoin Cash, visit the [Bitcoin Cash Projects list](https://www.bitcoin.com/bitcoin-cash-projects/) to see what kind of applications and tools are being built.
+
+# Contributing 
+
+If you want to contribute to this page, please see [CONTRIBUTING.md](/CONTRIBUTING.md).
