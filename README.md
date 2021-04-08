@@ -66,7 +66,7 @@ Bitcoin Cash (BCH) is supported by all major wallet providers, including but not
 
 # Bitcoin Cash Ecosystem 
 
-For a more comprehensive list of other BCH ecosystem projects that use Bitcoin Cash, visit the [Bitcoin Cash Projects list](https://www.bitcoin.com/bitcoin-cash-projects/) to see what kind of applications and tools are being built.
+For a more comprehensive list of other BCH ecosystem projects that use Bitcoin Cash, visit the [Bitcoin Cash Projects list](https://www.bitcoin.com/bitcoin-cash-projects/) to see what kind of applications and tools are being built around this decentralized network. 
 
 # Notable Companies 
 
