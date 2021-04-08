@@ -114,7 +114,7 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 * Chris Pacia ([source](https://news.bitcoin.com/developers-unveil-two-new-bitcoin-cash-full-node-clients-written-in-go/))
 * Rapper Lil Pump ([source](https://cheddar.com/media/ceo-of-sweet-talks-nft-partnership-with-rapper-lil-pump))
 * Rapper Lil Windex ([source](https://www.youtube.com/watch?v=nAMRFDs9iOs))
-* Pro-Tennish player Oleksandra Oliynykova ([source](https://zephyrnet.com/this-tennis-pro-is-auctioning-part-of-her-arm-as-an-nft/))
+* Pro-Tennis player Oleksandra Oliynykova ([source](https://zephyrnet.com/this-tennis-pro-is-auctioning-part-of-her-arm-as-an-nft/))
 * MMA Fighter Rory McDonald ([source](https://www.newsbtc.com/news/mma-champ-rory-mcdonald-teamed-bitcoin-cash/))
 
 # Contributing 
