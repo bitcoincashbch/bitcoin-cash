@@ -56,6 +56,63 @@ Bitcoin Cash (BCH) uses the SHA-256 hashing algorithm, which is the same mining 
 
 <img src="https://cash.coin.dance/blocks/image/thisweek.png"/>
 
+# Notable Companies Supporting Bitcoin Cash 
+
+Bitcoin Cash (BCH) is supported by many thousands of big and small companies around the world, which is simply too many to list. Here are just a few notable companies that support BCH, in no particular order:
+
+* PayPal ([source](https://www.reuters.com/article/paypal-cryptocurrency/paypal-to-allow-cryptocurrency-buying-selling-and-shopping-on-its-network-idINL1N2HB14U))
+* Revolut ([source](https://techcrunch.com/2018/05/23/revolut-adds-ripple-and-bitcoin-cash-support/))
+* HTC ([source](https://www.engadget.com/2019-09-16-htc-exodus-1-bitcoin-cash-partnership.html))
+* Wikipedia ([source](https://coinrivet.com/wikipedia-is-now-accepting-bitcoin-cash-donations/ ))
+* Hong Kong Free Press ([source](https://finance.yahoo.com/news/hong-kong-free-press-accepts-115303129.html))
+* eToro ([source](https://aithority.com/technology/cryptocurrency/etoro-adds-bitcoin-cash/))
+* Rakuten ([source](https://cryptonews.com/news/giant-rakuten-to-let-customers-charge-e-pay-accounts-with-bt-9343.htm))
+* International Game Technology ([source](https://www.coindesk.com/igt-patents-bitcoin-gambling-funding))
+* Travala ([source](https://blog.travala.com/travala-com-and-bitcoin-com-empower-over-four-million-travellers-to-save-on-hotel-stays/))
+* Robinhood ([source](https://www.cnbc.com/2018/07/12/trading-app-robinhood-adds-two-new-cryptocurrencies-despite-bear-marke.html))
+* Coinbase ([source](https://finance.yahoo.com/news/coinbase-adds-buying-selling-bitcoin-cash-094008738.html))
+* Bitpay ([source](https://news.bitcoin.com/payment-platform-bitpay-adds-bitcoin-cash-settlement-services/))
+* Blockchain ([source](https://www.macobserver.com/news/product-news/blockchain-info-support-bitcoin-cash/))
+* Grayscale ([source](https://grayscale.co/bitcoin-cash-trust/))
+* Gemini ([source](https://www.forbes.com/sites/michaeldelcastillo/2018/05/14/winklevoss-brothers-bitcoin-exchange-adds-zcash/))
+* Bitmain ([source](https://www.nytimes.com/2017/07/25/business/dealbook/bitcoin-cash-split.html))
+* ViaBTC ([source](https://www.nytimes.com/2017/07/25/business/dealbook/bitcoin-cash-split.html))
+
+# Notable People Supporting Bitcoin Cash 
+
+Bitcoin Cash (BCH) is supported by many millions of people around the world too. Here are just a few big names that support BCH, in no particular order:
+
+* Tim Drapper ([source](https://news.bitcoin.com/tim-draper-heaps-praise-on-bitcoin-cash/))
+* Elon Musk ([source](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-buy-guide-how-to-b1821972.html))
+* Kim Dotcom ([source](https://www.financemagnates.com/cryptocurrency/bitcoin-cash-bch-soars-after-kim-dotcom-support/))
+* John McAfee ([source](https://moneymorning.com/2017/11/15/john-mcafee-says-you-cant-deny-the-reality-of-bitcoin-cash/ ))
+* Rick Falkvinge ([source](https://www.wired.com/beyond-the-beyond/2017/11/rick-falkvinge-bitcoin-cash-manifesto/))
+* Bryan Kelly ([source](https://www.cnbc.com/2018/05/21/crypto-investor-brian-kelly-makes-the-case-for-bitcoin-cash.html))
+* Roger Ver ([source](https://www.cnbc.com/2018/05/15/why-bitcoin-jesus-is-so-bullish-about-bitcoin-cash.html))
+* Jeffrey Tucker ([source](https://www.youtube.com/watch?v=O_2IFV7zKe4))
+* Vinny Lingham ([source](https://www.cnbc.com/2018/01/25/vinny-lingham-thinks-bitcoin-cash-will-outpace-bitcoin-in-the-future.html))
+* Vitalik Buterin  ([source](https://decrypt.co/7885/vitalik-buterin-bitcoin-cash-ethereum-scalability))
+* Jihan Wu ([source](https://coinmarketcap.com/headlines/news/first-ever-bitcoin-cash-bch-option-to-be-launched-by-bitmain-founder-jihan-wu/))
+* Gavin Andresen ([source](https://twitter.com/gavinandresen/status/929377620000681984))
+* Balaji Srinivasan ([source](https://twitter.com/balajis/status/956662721465827329))
+* Mike Maloney ([source](https://twitter.com/mike_maloney/status/1348640138470051846))
+* Peter Smith ([source](https://twitter.com/OneMorePeter/status/931311757116694528))
+* Erik Voorhees ([source](https://twitter.com/ErikVoorhees/status/892745848106307584))
+* Paul Puey ([source](https://twitter.com/paullinator/status/943520781086031873))
+* Chris Pacia ([source](https://news.bitcoin.com/developers-unveil-two-new-bitcoin-cash-full-node-clients-written-in-go/))
+* Rapper Lil Pump ([source](https://cheddar.com/media/ceo-of-sweet-talks-nft-partnership-with-rapper-lil-pump))
+* Rapper Lil Windex ([source](https://www.youtube.com/watch?v=nAMRFDs9iOs))
+* Pro-Tennish player Oleksandra Oliynykova ([source](https://zephyrnet.com/this-tennis-pro-is-auctioning-part-of-her-arm-as-an-nft/))
+* MMA Fighter Rory McDonald ([source](https://www.newsbtc.com/news/mma-champ-rory-mcdonald-teamed-bitcoin-cash/))
+
+# Bitcoin Cash Trading
+
+Bitcoin Cash (BCH) is traded on all major exchanges and trading websites in the world, including but not limited to Coinbase, Kraken, Gemini, Bitstamp, Robinhood, Shapeshift, Binance, Bitfinex, and many others. 
+
+# Bitcoin Cash Wallets
+
+Bitcoin Cash (BCH) is supported by all major wallet providers, including but not limited to Bitcoin.com, Blockchain.com, Electron Cash, Edge, Bitpay, Ledger, Trezor, Exodus, BitGo, and many others.
+
 # Bitcoin Cash Ecosystem 
 
 For a more comprehensive list of other BCH ecosystem projects that use Bitcoin Cash, visit the [Bitcoin Cash Projects list](https://www.bitcoin.com/bitcoin-cash-projects/) to see what kind of applications and tools are being built.
