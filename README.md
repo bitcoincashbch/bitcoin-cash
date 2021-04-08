@@ -58,7 +58,7 @@ Bitcoin Cash (BCH) uses the SHA-256 hashing algorithm, which is the same mining 
 
 # Bitcoin Cash Trading
 
-Bitcoin Cash (BCH) is traded on all major exchanges and trading websites in the world, including but not limited to Coinbase, Kraken, Gemini, Bitstamp, Robinhood, Shapeshift, Binance, Bitfinex, and many others. 
+Bitcoin Cash (BCH) is traded on all major exchange platforms, including but not limited to Coinbase, Kraken, Gemini, Bitstamp, Robinhood, Shapeshift, Binance, Bitfinex, and many others. 
 
 # Bitcoin Cash Wallets
 
