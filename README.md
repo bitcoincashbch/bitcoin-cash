@@ -56,7 +56,7 @@ Bitcoin Cash (BCH) uses the SHA-256 hashing algorithm, which is the same mining 
 
 <img src="https://cash.coin.dance/blocks/image/thisweek.png"/>
 
-# Notable Companies Supporting Bitcoin Cash 
+# Notable Companies 
 
 Bitcoin Cash (BCH) is supported by many thousands of big and small companies around the world, which is simply too many to list. Here are just a few notable companies that support BCH, in no particular order:
 
@@ -78,7 +78,7 @@ Bitcoin Cash (BCH) is supported by many thousands of big and small companies aro
 * Bitmain ([source](https://www.nytimes.com/2017/07/25/business/dealbook/bitcoin-cash-split.html))
 * ViaBTC ([source](https://www.nytimes.com/2017/07/25/business/dealbook/bitcoin-cash-split.html))
 
-# Notable People Supporting Bitcoin Cash 
+# Notable People 
 
 Bitcoin Cash (BCH) is supported by many millions of people around the world too. Here are just a few big names that support BCH, in no particular order:
 
