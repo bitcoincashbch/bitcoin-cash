@@ -117,10 +117,13 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 * Mike Maloney ([source](https://twitter.com/mike_maloney/status/1348640138470051846))
 * Peter Smith ([source](https://twitter.com/OneMorePeter/status/931311757116694528))
 * Erik Voorhees ([source](https://twitter.com/ErikVoorhees/status/892745848106307584))
+* Mike Hearn ([source](https://www.ccn.com/think-heretical-thoughts-mike-hearn-tells-bitcoin-cash/))
+* Brock Pierce ([source](https://twitter.com/brockpierce/status/1031536253894840320))
 * Paul Puey ([source](https://twitter.com/paullinator/status/943520781086031873))
 * Chris Pacia ([source](https://news.bitcoin.com/developers-unveil-two-new-bitcoin-cash-full-node-clients-written-in-go/))
 * Rapper Lil Pump ([source](https://cheddar.com/media/ceo-of-sweet-talks-nft-partnership-with-rapper-lil-pump))
 * Rapper Lil Windex ([source](https://www.youtube.com/watch?v=nAMRFDs9iOs))
+* Rapper RiFF RAFF ([source](https://twitter.com/DavidShares/status/1384507667188682753))
 * Pro-Tennis player Oleksandra Oliynykova ([source](https://zephyrnet.com/this-tennis-pro-is-auctioning-part-of-her-arm-as-an-nft/))
 * MMA Fighter Rory McDonald ([source](https://www.newsbtc.com/news/mma-champ-rory-mcdonald-teamed-bitcoin-cash/))
 
