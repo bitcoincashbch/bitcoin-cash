@@ -121,6 +121,7 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 * Brock Pierce ([source](https://twitter.com/brockpierce/status/1031536253894840320))
 * Paul Puey ([source](https://twitter.com/paullinator/status/943520781086031873))
 * Chris Pacia ([source](https://news.bitcoin.com/developers-unveil-two-new-bitcoin-cash-full-node-clients-written-in-go/))
+* Kyle Samani ([source](https://www.forbes.com/sites/laurashin/2017/11/12/bitcoin-cash-skyrockets-bitcoin-price-drops-as-civil-war-continues/))
 * Rapper Lil Pump ([source](https://cheddar.com/media/ceo-of-sweet-talks-nft-partnership-with-rapper-lil-pump))
 * Rapper Lil Windex ([source](https://www.youtube.com/watch?v=nAMRFDs9iOs))
 * Rapper RiFF RAFF ([source](https://twitter.com/DavidShares/status/1384507667188682753))
