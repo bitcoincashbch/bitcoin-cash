@@ -68,6 +68,12 @@ Bitcoin Cash (BCH) is supported by all major wallet providers, including but not
 
 For a more comprehensive list of other BCH ecosystem projects that use Bitcoin Cash, visit the [Bitcoin Cash Projects list](https://www.bitcoin.com/bitcoin-cash-projects/) to see what kind of applications and tools are being built around this decentralized network. 
 
+# Bitcoin Cash Adoption 
+
+BCH is accepted all over the world by businesses, merchants, and users. In the [Bitcoin.com map](https://map.bitcoin.com/) pictured, there are over 8200+ merchants that are accepting Bitcoin Cash as payment for services. There are other maps that support BCH, such as [Cryptwerk](https://cryptwerk.com/coinmap/bch/), [Anypay](https://anypay.city/), and [Bmap](https://bmap.app/). There are Bitcoin Cash merchant directories too, such as [BitPay](https://bitpay.com/directory/), [Accept BCH](https://acceptbitcoin.cash/), [Cryptwerk](https://cryptwerk.com/pay-with/bch/), and [Green Pages](https://greenpages.cash/). There are also several services that support working for Bitcoin Cash like [Working for Bitcoins](https://workingforbitcoins.com/), [LazyFox](https://lazyfox.io/), and [Venezuela Workers](https://venezuelaworkers.com/). If you just want to meetup with other like-minded persons, you can use the [Bitcoin Cash Meetup group](https://www.meetup.com/topics/bitcoin-cash/) to connect with thousands of other people around the world. 
+
+![Bitcoin Cash Map](bitcoin-cash-adoption-global-map.PNG "Bitcoin Cash Map")
+
 # Notable Companies 
 
 Bitcoin Cash (BCH) is supported by many thousands of big and small companies around the world, which is simply too many to list. Here are just a few notable companies that support BCH, in no particular order:
