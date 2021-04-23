@@ -9,28 +9,22 @@ Bitcoin Cash (ticker symbol: BCH) is a decentralized uncensorable peer-to-peer e
 BCH doesn't have a single official Github repository. Due to it's decentralized blockchain and p2p network, there are several Bitcoin Cash software client implementations, listed below in no specific order. Since each implementation has it's own team of developers that works to keep it's client compatible with the rest of the network, there is no central point of weakness.
 
 ## Bitcoin Cash Node
-* [Website](https://bitcoincashnode.org/)
-* [Project Repository](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node)
+* [Website](https://bitcoincashnode.org/) / [Project Repository](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node)
 
 ## Bitcoin Unlimited 
-* [Website](https://www.bitcoinunlimited.info/)
-* [Project Repository](https://github.com/BitcoinUnlimited/BitcoinUnlimited)
+* [Website](https://www.bitcoinunlimited.info/) / [Project Repository](https://github.com/BitcoinUnlimited/BitcoinUnlimited)
 
 ## BCHD
-* [Website](https://bchd.cash/)
-* [Project Repository](https://github.com/gcash/bchd)
+* [Website](https://bchd.cash/) / [Project Repository](https://github.com/gcash/bchd)
 
 ## Bitcoin Verde
-* [Website](https://bitcoinverde.org/documentation/)
-* [Project Repository](https://github.com/SoftwareVerde/bitcoin-verde)
+* [Website](https://bitcoinverde.org/documentation/) / [Project Repository](https://github.com/SoftwareVerde/bitcoin-verde)
 
 ## Flowee the Hub
-* [Website](https://flowee.org/)
-* [Project Repository](https://gitlab.com/FloweeTheHub)
+* [Website](https://flowee.org/) / [Project Repository](https://gitlab.com/FloweeTheHub)
 
 ## Knuth
-* [Website](http://kth.cash/)
-* [Project Repository](https://github.com/k-nuth/kth)
+* [Website](http://kth.cash/) / [Project Repository](https://github.com/k-nuth/kth)
 
 # Bitcoin Cash Protocol Development
 
