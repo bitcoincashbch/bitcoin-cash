@@ -93,6 +93,7 @@ Bitcoin Cash (BCH) is supported by many thousands of big and small companies aro
 * Overstock ([source](https://www.finextra.com/newsarticle/30939/online-retailer-overstock-starts-accepting-bitcoin-cash-and-ethereum))
 * CheapAir ([source](https://www.prnewswire.com/news-releases/cheapaircom-and-bitcoincom-partner-to-serve-bitcoin-cash-travelers-300893373.html))
 * Whole Foods ([source](https://www.fastcompany.com/90348494/the-winklevoss-twins-want-to-take-cryptocurrency-mainstream))
+* Wix ([source](https://www.businesswire.com/news/home/20211012005376/en/BitPay-Partners-with-Wix-Enabling-Wix-Merchants-to-Accept-Crypto-Payments))
 * eGifter ([source](https://www.egifter.com/buy-gift-cards-with-bitcoin-cash))
 * Robinhood ([source](https://www.cnbc.com/2018/07/12/trading-app-robinhood-adds-two-new-cryptocurrencies-despite-bear-marke.html))
 * Coinbase ([source](https://finance.yahoo.com/news/coinbase-adds-buying-selling-bitcoin-cash-094008738.html))
