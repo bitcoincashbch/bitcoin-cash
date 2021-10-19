@@ -113,6 +113,7 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 * John McAfee ([source](https://moneymorning.com/2017/11/15/john-mcafee-says-you-cant-deny-the-reality-of-bitcoin-cash/ ))
 * Rick Falkvinge ([source](https://www.wired.com/beyond-the-beyond/2017/11/rick-falkvinge-bitcoin-cash-manifesto/))
 * Bryan Kelly ([source](https://www.cnbc.com/2018/05/21/crypto-investor-brian-kelly-makes-the-case-for-bitcoin-cash.html))
+* Swizz Beatz (Kasseem Dean) ([source](https://youtu.be/cveFouBiWzo?t=1153))
 * Roger Ver ([source](https://www.cnbc.com/2018/05/15/why-bitcoin-jesus-is-so-bullish-about-bitcoin-cash.html))
 * Jeffrey Tucker ([source](https://www.youtube.com/watch?v=O_2IFV7zKe4))
 * Vinny Lingham ([source](https://www.cnbc.com/2018/01/25/vinny-lingham-thinks-bitcoin-cash-will-outpace-bitcoin-in-the-future.html))
