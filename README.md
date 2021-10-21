@@ -49,7 +49,7 @@ Below is a highlighted list of completed protocol developments on the Bitcoin Ca
 * [Simple Ledger Protocol](https://www.reddit.com/r/btc/comments/8zxfu5/introducing_simple_ledger_protocol_slp_a_token/)
 * [Fast Sync via IPFS](https://medium.com/@bchd.cash/announcing-bchd-0-13-0-beta2-with-fast-sync-mode-4d4b741d27c5)
 * [Graphene v1](https://github.com/BitcoinUnlimited/BitcoinUnlimited/pull/973)
-* [Smart Bitcoin Cash (EVM sidechain)](https://github.com/smartbch)
+* [Smart Bitcoin Cash sidechain (EVM smart contracts)](https://github.com/smartbch)
 
 # Bitcoin Cash Mining
 
