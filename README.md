@@ -143,4 +143,4 @@ If you want to contribute to this page, please see [CONTRIBUTING.md](/CONTRIBUTI
 
 # Support
 
-If you wish to support this reference page, consider [buying a Bitcoin Cash shirt or hoodie](https://cryptoshirts.plus/). Not only does it support this reference page, but a portion of the proceeds will go to the further development of BCH using the transparent fundraising platform Flipstarter. 
+If you wish to support this reference page, consider [buying a Bitcoin Cash shirt](https://cryptoshirts.plus/). Not only does it support this reference page, but a portion of the proceeds will go to the further development of BCH using the transparent fundraising platform Flipstarter. 
