@@ -71,7 +71,7 @@ For a more comprehensive list of other BCH ecosystem projects that use Bitcoin C
 
 # Bitcoin Cash Adoption 
 
-Bitcoin Cash is accepted all over the world. In the [Bitcoin Map](https://map.bitcoin.com/), there are over 8200+ merchants that are accepting BCH as payment. There are other maps that support BCH, such as [Cryptwerk](https://cryptwerk.com/coinmap/bch/), [Anypay](https://anypay.city/), and [Bmap](https://bmap.app/). There are Bitcoin Cash merchant directories, such as [BitPay](https://bitpay.com/directory/), [Accept BCH](https://acceptbitcoin.cash/), [Cryptwerk](https://cryptwerk.com/pay-with/bch/), and [Green Pages](https://greenpages.cash/). There are several services that support working for BCH like [Bitwage](https://www.bitwage.com/), [Working for Bitcoins](https://workingforbitcoins.com/), [LazyFox](https://lazyfox.io/), and [Venezuela Workers](https://venezuelaworkers.com/). If you want to meetup with others, you can use the [Bitcoin Cash Meetup](https://www.meetup.com/topics/bitcoin-cash/) group to connect with thousands of people around the world. 
+Bitcoin Cash is accepted all over the world. In the [Bitcoin Map](https://map.bitcoin.com/), there are over 10,000+ merchants that are accepting BCH as payment. There are other maps that support BCH, such as [Cryptwerk](https://cryptwerk.com/coinmap/bch/), [Anypay](https://anypay.city/), and [Bmap](https://bmap.app/). There are Bitcoin Cash merchant directories, such as [BitPay](https://bitpay.com/directory/), [Accept BCH](https://acceptbitcoin.cash/), [Cryptwerk](https://cryptwerk.com/pay-with/bch/), and [Green Pages](https://greenpages.cash/). There are several services that support working for BCH like [Bitwage](https://www.bitwage.com/), [Working for Bitcoins](https://workingforbitcoins.com/), [LazyFox](https://lazyfox.io/), and [Venezuela Workers](https://venezuelaworkers.com/). If you want to meetup with others, you can use the [Bitcoin Cash Meetup](https://www.meetup.com/topics/bitcoin-cash/) group to connect with thousands of people around the world. 
 
 ![Bitcoin Cash Map](bitcoin-cash-adoption-global-map.PNG "Bitcoin Cash Map")
 
@@ -112,6 +112,7 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 * Tim Drapper ([source](https://news.bitcoin.com/tim-draper-heaps-praise-on-bitcoin-cash/))
 * Elon Musk ([source](https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-buy-guide-how-to-b1821972.html))
 * Kim Dotcom ([source](https://www.financemagnates.com/cryptocurrency/bitcoin-cash-bch-soars-after-kim-dotcom-support/))
+* Mark Cuban ([source](https://twitter.com/DavidShares/status/1450204533154582533))
 * John McAfee ([source](https://moneymorning.com/2017/11/15/john-mcafee-says-you-cant-deny-the-reality-of-bitcoin-cash/ ))
 * Rick Falkvinge ([source](https://www.wired.com/beyond-the-beyond/2017/11/rick-falkvinge-bitcoin-cash-manifesto/))
 * Bryan Kelly ([source](https://www.cnbc.com/2018/05/21/crypto-investor-brian-kelly-makes-the-case-for-bitcoin-cash.html))
@@ -123,6 +124,7 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 * Jihan Wu ([source](https://coinmarketcap.com/headlines/news/first-ever-bitcoin-cash-bch-option-to-be-launched-by-bitmain-founder-jihan-wu/))
 * Gavin Andresen ([source](https://twitter.com/gavinandresen/status/929377620000681984))
 * Balaji Srinivasan ([source](https://twitter.com/balajis/status/956662721465827329))
+* Rolando Brison - Parliament of St. Maarten ([source](https://news.bitcoin.com/member-of-st-maartens-parliament-plans-to-have-his-entire-salary-paid-in-bitcoin-cash/))
 * Mike Maloney ([source](https://twitter.com/mike_maloney/status/1348640138470051846))
 * Peter Smith ([source](https://twitter.com/OneMorePeter/status/931311757116694528))
 * Erik Voorhees ([source](https://twitter.com/ErikVoorhees/status/892745848106307584))
@@ -136,6 +138,7 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 * Rapper RiFF RAFF ([source](https://twitter.com/DavidShares/status/1384507667188682753))
 * Pro-Tennis player Oleksandra Oliynykova ([source](https://zephyrnet.com/this-tennis-pro-is-auctioning-part-of-her-arm-as-an-nft/))
 * MMA Fighter Rory McDonald ([source](https://www.newsbtc.com/news/mma-champ-rory-mcdonald-teamed-bitcoin-cash/))
+* MMA Fighter Gordon Ryan ([source](https://jiujitsutimes.com/gordon-ryan-signs-sponsorship-deal-with-bitcoin-cash-worth-100k-for-adcc-2022/))
 
 # Contributing 
 
