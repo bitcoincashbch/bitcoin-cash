@@ -142,6 +142,7 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 * Pro-Tennis player Oleksandra Oliynykova ([source](https://zephyrnet.com/this-tennis-pro-is-auctioning-part-of-her-arm-as-an-nft/))
 * MMA Fighter Rory McDonald ([source](https://www.newsbtc.com/news/mma-champ-rory-mcdonald-teamed-bitcoin-cash/))
 * MMA Fighter Gordon Ryan ([source](https://jiujitsutimes.com/gordon-ryan-signs-sponsorship-deal-with-bitcoin-cash-worth-100k-for-adcc-2022/))
+* Pro-Cricket player Chris Gayle ([source](https://old.reddit.com/r/btc/comments/te6xkb/so_the_universe_boss_chris_gayle_is_paying_at/))
 
 # Contributing 
 
