@@ -84,6 +84,7 @@ Bitcoin Cash (BCH) is supported by many thousands of big and small companies aro
 * Revolut ([source](https://techcrunch.com/2018/05/23/revolut-adds-ripple-and-bitcoin-cash-support/))
 * HTC ([source](https://www.engadget.com/2019-09-16-htc-exodus-1-bitcoin-cash-partnership.html))
 * Microsoft ([source](https://www.trustnodes.com/2018/03/13/microsoft-starts-accepting-bitcoin-cash))
+* AMC ([source](https://thecryptobasic.com/2021/09/16/amc-the-biggest-cinema-chain-worldwide-with-1004-theaters-11041-screens-to-start-accepting-ethereum-bitcoin-cash-and-litecoin/))
 * Wikipedia ([source](https://coinrivet.com/wikipedia-is-now-accepting-bitcoin-cash-donations/ ))
 * Hong Kong Free Press ([source](https://finance.yahoo.com/news/hong-kong-free-press-accepts-115303129.html))
 * eToro ([source](https://aithority.com/technology/cryptocurrency/etoro-adds-bitcoin-cash/))
