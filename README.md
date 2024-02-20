@@ -1,5 +1,9 @@
 ![Bitcoin Cash BCH](bitcoin-cash-bch-logo-hero.png "Bitcoin Cash BCH logo")
 
+# Update
+
+This page has been updated and added with a permament website which you can visit and support @  [BitcoinProtocol.org](https://bitcoinprotocol.org/). Please check there for more updated and relevant information pertaining to Bitcoin Cash.
+
 # Bitcoin Cash (BCH)
 
 Bitcoin Cash (ticker symbol: BCH) is a decentralized uncensorable peer-to-peer electronic cash system as outlined in the [Bitcoin whitepaper](http://bitcoin.com/bitcoin.pdf) by Satoshi Nakamoto that has fast, secure, reliable, and low fee transactions running on a permissionless blockchain network. Bitcoin Cash is the upgraded version of Bitcoin which carries the same genesis block that was started with Bitcoin in January 2009. You can learn more about it by reading *[What is Bitcoin Cash](https://bitcoincash.substack.com/p/what-is-bitcoin-cash-bch)*.
@@ -147,7 +151,3 @@ Bitcoin Cash (BCH) is supported by many millions of people around the world too.
 # Contributing 
 
 If you want to contribute to this page, please see [CONTRIBUTING.md](/CONTRIBUTING.md).
-
-# Support
-
-This page has been updated and added with a permament website which you can visit and support @  [BitcoinProtocol.org](https://bitcoinprotocol.org/).
